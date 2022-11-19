@@ -1,0 +1,31 @@
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.recipes {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.canvas {
+    background-color: aliceblue;
+}
+
+.back {
+    background-color: aquamarine;
+    font-size: 20;
+    font-weight: 700;
+    color: chocolate;
+    text-align: center;
+    margin:auto;
+    display:block;
+}
+
+.text-crazy {
+    background-color: aquamarine;
+    color: crimson;
+}
